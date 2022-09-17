@@ -1,5 +1,9 @@
 ## Server NodeJs para projeto NLW
 
+## Execução
+
+```npm run dev```
+
 
 ### ORM BANCO DE DADOS SQLITE
 
