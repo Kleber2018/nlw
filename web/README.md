@@ -32,3 +32,9 @@ utilizando Dialog: https://www.radix-ui.com/docs/primitives/components/dialog
 checkbox: ```npm install @radix-ui/react-checkbox```
 select: ```npm install @radix-ui/react-select```
 para agrupar botoes: ```npm install @radix-ui/react-toggle-group```
+
+
+
+#### rquisição http
+
+Usar a biblioteca axios no lugard de fetch: ```npm i axios```
