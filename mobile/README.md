@@ -21,3 +21,8 @@
 **Estratégia de navegação**
 
 ```npm install @react-navigation/native-stack```
+
+
+### Bibliotecas
+
+expo install expo-clipboard

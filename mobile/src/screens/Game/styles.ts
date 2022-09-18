@@ -12,12 +12,12 @@ export const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 32,
-    marginTop: 28,
+    marginTop: 8,
     justifyContent: 'space-between'
   },
   logo: {
     width: 72,
-    height: 40
+    height: 30
   },
   right: {
     width: 20,
@@ -25,9 +25,9 @@ export const styles = StyleSheet.create({
   },
   cover: {
     width:311,
-    height: 160,
+    height: 120,
     borderRadius: 8,
-    marginTop: 32
+    marginTop: 8
   },
   containerList: {
     width: '100%',
