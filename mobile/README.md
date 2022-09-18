@@ -25,4 +25,7 @@
 
 ### Bibliotecas
 
-expo install expo-clipboard
+**NOTIFICAÇÃO DO EXPO**
+Necessário estar logado na conta do expo: ```expo login```
+para copiar: ```expo install expo-clipboard```
+notification: ```expo install expo-notifications```
