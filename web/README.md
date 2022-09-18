@@ -26,3 +26,9 @@ https://ariakit.org
 biblioteca completa: https://www.radix-ui.com
 
 utilizando Dialog: https://www.radix-ui.com/docs/primitives/components/dialog
+
+### radix
+
+checkbox: ```npm install @radix-ui/react-checkbox```
+select: ```npm install @radix-ui/react-select```
+para agrupar botoes: ```npm install @radix-ui/react-toggle-group```
