@@ -6,6 +6,12 @@
 
 
 ## configurações
+### Icons
+
+```npm install --save phosphor-react-native```
+
+```expo install react-native-svg```
+
 ### rotas
 
 
